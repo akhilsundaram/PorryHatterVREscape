@@ -1341,3 +1341,777 @@ The following settings have been applied:
 [2024.05.01-08.35.00:343][953]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Content/Collections/' because it could not be accessed. Aborting watch request...
 [2024.05.01-08.35.00:343][953]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Saved/Collections/' because it could not be accessed. Aborting watch request...
 [2024.05.01-08.35.00:344][953]LogDirectoryWatcher: Display: A directory notification failed for 'C:/Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Content/Developers/anuragc3/Collections/' because it could not be accessed. Aborting watch request...
+[2024.05.01-08.43.51:609][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.05.01-08.43.52:209][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candles_A.T_Candles_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.52:251][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candles_C.T_Candles_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.52:314][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candles_N.T_Candles_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.52:393][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.43.52:456][720]LogAssetEditorSubsystem: Opening Asset editor for World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2024.05.01-08.43.52:457][720]Cmd: MAP LOAD FILE="../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Content/MedievalDungeon/Maps/Demonstration.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2024.05.01-08.43.52:457][720]LightingResults: New page: Lighting Build
+[2024.05.01-08.43.52:457][720]LoadErrors: New page: Loading map: Demonstration.umap
+[2024.05.01-08.43.52:482][720]LogStaticMesh: Display: Building static mesh SM_Candle...
+[2024.05.01-08.43.52:505][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Candle.SM_Candle
+[2024.05.01-08.43.52:543][720]LogStaticMesh: Display: Building static mesh SM_Candle_Used_A...
+[2024.05.01-08.43.52:545][720]LogWorld: UWorld::CleanupWorld for VRTemplateMap, bSessionEnded=true, bCleanupResources=true
+[2024.05.01-08.43.52:545][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.01-08.43.52:546][720]MapCheck: New page: Map Check
+[2024.05.01-08.43.52:546][720]LightingResults: New page: Lighting Build
+[2024.05.01-08.43.52:554][720]LogStaticMesh: Display: Building static mesh SM_Candle_Used_B...
+[2024.05.01-08.43.52:557][720]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.05.01-08.43.52:566][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.05.01-08.43.52:570][720]LogStaticMesh: Display: Building static mesh Wall_Short...
+[2024.05.01-08.43.52:570][720]LogStaticMesh: Display: Building static mesh SM_Dungeon_Wall...
+[2024.05.01-08.43.52:576][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/Wall_Short.Wall_Short
+[2024.05.01-08.43.52:577][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall.SM_Dungeon_Wall
+[2024.05.01-08.43.52:583][720]LogStaticMesh: Display: Building static mesh SM_Stairs_10...
+[2024.05.01-08.43.52:583][720]LogStaticMesh: Display: Building static mesh SM_Stone_Coffin...
+[2024.05.01-08.43.52:596][720]LogStaticMesh: Display: Waiting for static meshes to be ready 2/122 (/Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin) ...
+[2024.05.01-08.43.52:597][720]LogStaticMesh: Built static mesh [0.06s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Used_A.SM_Candle_Used_A
+[2024.05.01-08.43.52:599][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_10.SM_Stairs_10
+[2024.05.01-08.43.52:607][720]LogStaticMesh: Display: Building static mesh SM_Wood_G...
+[2024.05.01-08.43.52:608][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin.SM_Stone_Coffin
+[2024.05.01-08.43.52:613][720]LogStaticMesh: Display: Building static mesh SM_Wall_Floor_Trim...
+[2024.05.01-08.43.52:615][720]LogStaticMesh: Display: Building static mesh SM_Small_Window_Half...
+[2024.05.01-08.43.52:617][720]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Wall_Floor_Trim.SM_Wall_Floor_Trim
+[2024.05.01-08.43.52:619][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Wood_G.SM_Wood_G
+[2024.05.01-08.43.52:629][720]LogStaticMesh: Display: Waiting for static meshes to be ready 4/122 (/Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Small_Window_Half) ...
+[2024.05.01-08.43.52:638][720]LogStaticMesh: Display: Building static mesh SM_Torture_Chair...
+[2024.05.01-08.43.52:648][720]LogStaticMesh: Built static mesh [0.09s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Used_B.SM_Candle_Used_B
+[2024.05.01-08.43.52:650][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Small_Window_Half.SM_Small_Window_Half
+[2024.05.01-08.43.52:658][720]LogStaticMesh: Display: Building static mesh SM_Stone_Coffin_Lid...
+[2024.05.01-08.43.52:660][720]LogStaticMesh: Display: Building static mesh SM_Stone_Coffin_Body...
+[2024.05.01-08.43.52:664][720]LogStaticMesh: Display: Building static mesh SM_Candle_Holder...
+[2024.05.01-08.43.52:673][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Lid.SM_Stone_Coffin_Lid
+[2024.05.01-08.43.52:676][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Stone_Coffin_Body.SM_Stone_Coffin_Body
+[2024.05.01-08.43.52:678][720]LogStaticMesh: Display: Waiting for static meshes to be ready 7/122 (/Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair) ...
+[2024.05.01-08.43.52:689][720]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Props/SM_Torture_Chair.SM_Torture_Chair
+[2024.05.01-08.43.52:694][720]LogStaticMesh: Display: Building static mesh SM_Statue_Stand...
+[2024.05.01-08.43.52:701][720]LogStaticMesh: Display: Building static mesh SM_Stocks_Game_Ready...
+[2024.05.01-08.43.52:715][720]LogStaticMesh: Display: Waiting for static meshes to be ready 8/122 (/Game/MedievalDungeon/Meshes/Props/SM_Table) ...
+[2024.05.01-08.43.52:753][720]LogStaticMesh: Built static mesh [0.06s] /Game/MedievalDungeon/Meshes/Props/SM_Statue_Stand.SM_Statue_Stand
+[2024.05.01-08.43.52:761][720]LogStaticMesh: Display: Building static mesh SM_Stairs_5...
+[2024.05.01-08.43.52:766][720]LogStaticMesh: Display: Building static mesh SM_Table...
+[2024.05.01-08.43.52:772][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_5.SM_Stairs_5
+[2024.05.01-08.43.52:786][720]LogStaticMesh: Built static mesh [0.09s] /Game/MedievalDungeon/Meshes/Props/SM_Stocks_Game_Ready.SM_Stocks_Game_Ready
+[2024.05.01-08.43.52:999][720]LogStaticMesh: Built static mesh [0.34s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Holder.SM_Candle_Holder
+[2024.05.01-08.43.53:034][720]LogStaticMesh: Built static mesh [0.27s] /Game/MedievalDungeon/Meshes/Props/SM_Table.SM_Table
+[2024.05.01-08.43.53:095][720]LogStaticMesh: Display: Waiting for static meshes to be ready 13/122 (/Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded) ...
+[2024.05.01-08.43.53:173][720]LogStaticMesh: Display: Building static mesh SM_Statue_Hooded...
+[2024.05.01-08.43.53:329][720]LogStaticMesh: Display: Building static mesh SM_Skeleton_03...
+[2024.05.01-08.43.53:360][720]LogStaticMesh: Display: Building static mesh SM_Skeleton_01...
+[2024.05.01-08.43.53:590][720]LogStaticMesh: Display: Building static mesh SM_Skeleton_05...
+[2024.05.01-08.43.53:629][720]LogStaticMesh: Display: Building static mesh SM_Skeleton_02...
+[2024.05.01-08.43.53:919][720]LogStaticMesh: Built static mesh [0.75s] /Game/MedievalDungeon/Meshes/Props/SM_Statue_Hooded.SM_Statue_Hooded
+[2024.05.01-08.43.53:989][720]LogStaticMesh: Display: Waiting for static meshes to be ready 15/122 (/Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01) ...
+[2024.05.01-08.43.53:993][720]LogStaticMesh: Display: Building static mesh SM_Pot_C_Lid...
+[2024.05.01-08.43.54:037][720]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Lid.SM_Pot_C_Lid
+[2024.05.01-08.43.54:042][720]LogStaticMesh: Built static mesh [0.71s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_03.SM_Skeleton_03
+[2024.05.01-08.43.54:103][720]LogStaticMesh: Display: Building static mesh SM_Pot_C_Complete...
+[2024.05.01-08.43.54:133][720]LogStaticMesh: Built static mesh [0.77s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_01.SM_Skeleton_01
+[2024.05.01-08.43.54:165][720]LogStaticMesh: Display: Building static mesh SM_Pot_C_Body...
+[2024.05.01-08.43.54:221][720]LogStaticMesh: Built static mesh [0.12s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Complete.SM_Pot_C_Complete
+[2024.05.01-08.43.54:233][720]LogStaticMesh: Display: Waiting for static meshes to be ready 17/122 (/Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05) ...
+[2024.05.01-08.43.54:240][720]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_C_Body.SM_Pot_C_Body
+[2024.05.01-08.43.54:277][720]LogStaticMesh: Display: Building static mesh SM_Pot_B_Complete...
+[2024.05.01-08.43.54:278][720]LogStaticMesh: Display: Building static mesh SM_Pot_A_Lid...
+[2024.05.01-08.43.54:282][720]LogStaticMesh: Display: Building static mesh SM_Pot_B_Body...
+[2024.05.01-08.43.54:321][720]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_A_Lid.SM_Pot_A_Lid
+[2024.05.01-08.43.54:337][720]LogStaticMesh: Built static mesh [0.71s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_02.SM_Skeleton_02
+[2024.05.01-08.43.54:356][720]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Body.SM_Pot_B_Body
+[2024.05.01-08.43.54:388][720]LogStaticMesh: Display: Building static mesh SM_Pot_A_Complete...
+[2024.05.01-08.43.54:401][720]LogStaticMesh: Built static mesh [0.12s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Complete.SM_Pot_B_Complete
+[2024.05.01-08.43.54:407][720]LogStaticMesh: Display: Building static mesh SM_Pot_A_Body...
+[2024.05.01-08.43.54:422][720]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Lid_C...
+[2024.05.01-08.43.54:429][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_C.SM_Mausoleum_Lid_C
+[2024.05.01-08.43.54:433][720]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Lid_B...
+[2024.05.01-08.43.54:439][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_B.SM_Mausoleum_Lid_B
+[2024.05.01-08.43.54:443][720]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Lid_A...
+[2024.05.01-08.43.54:444][720]LogStaticMesh: Display: Building static mesh SM_Pillar...
+[2024.05.01-08.43.54:450][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Lid_A.SM_Mausoleum_Lid_A
+[2024.05.01-08.43.54:462][720]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
+[2024.05.01-08.43.54:468][720]LogStaticMesh: Display: Building static mesh SM_Mausoleum_Ceiling...
+[2024.05.01-08.43.54:491][720]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_A_Body.SM_Pot_A_Body
+[2024.05.01-08.43.54:503][720]LogStaticMesh: Built static mesh [0.06s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Pillar.SM_Pillar
+[2024.05.01-08.43.54:513][720]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum_Ceiling.SM_Mausoleum_Ceiling
+[2024.05.01-08.43.54:515][720]LogStaticMesh: Built static mesh [0.13s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_A_Complete.SM_Pot_A_Complete
+[2024.05.01-08.43.54:525][720]LogStaticMesh: Display: Building static mesh SM_Lock_Key...
+[2024.05.01-08.43.54:530][720]LogStaticMesh: Display: Building static mesh SM_Lock_Open...
+[2024.05.01-08.43.54:539][720]LogStaticMesh: Display: Building static mesh SM_Mausoleum...
+[2024.05.01-08.43.54:544][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Lock_Key.SM_Lock_Key
+[2024.05.01-08.43.54:553][720]LogStaticMesh: Display: Building static mesh SM_Lock_Closed...
+[2024.05.01-08.43.54:561][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Lock_Open.SM_Lock_Open
+[2024.05.01-08.43.54:561][720]LogStaticMesh: Display: Building static mesh SM_Large_Window_Half...
+[2024.05.01-08.43.54:574][720]LogStaticMesh: Display: Building static mesh SM_Handcuff...
+[2024.05.01-08.43.54:584][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Lock_Closed.SM_Lock_Closed
+[2024.05.01-08.43.54:599][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Handcuff.SM_Handcuff
+[2024.05.01-08.43.54:602][720]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Large_Window_Half.SM_Large_Window_Half
+[2024.05.01-08.43.54:623][720]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Mausoleum.SM_Mausoleum
+[2024.05.01-08.43.54:644][720]LogStaticMesh: Display: Building static mesh SM_Gibbet_Cage_Open...
+[2024.05.01-08.43.54:689][720]LogStaticMesh: Display: Building static mesh SM_Half_Arch...
+[2024.05.01-08.43.54:693][720]LogStaticMesh: Display: Building static mesh SM_Edge_Stones...
+[2024.05.01-08.43.54:733][720]LogStaticMesh: Display: Building static mesh SM_Gargoyle_Statue_On_Stand...
+[2024.05.01-08.43.54:748][720]LogStaticMesh: Built static mesh [0.11s] /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Open.SM_Gibbet_Cage_Open
+[2024.05.01-08.43.54:770][720]LogStaticMesh: Display: Building static mesh SM_Dungeon_Wall_Decorative_D...
+[2024.05.01-08.43.54:776][720]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2024.05.01-08.43.54:784][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall_Decorative_D.SM_Dungeon_Wall_Decorative_D
+[2024.05.01-08.43.54:789][720]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_D...
+[2024.05.01-08.43.54:790][720]LogStaticMesh: Display: Building static mesh SM_Dungeon_Wall_Decorative_A...
+[2024.05.01-08.43.54:798][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_D.SM_Dirt_Mound_D
+[2024.05.01-08.43.54:804][720]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_C...
+[2024.05.01-08.43.54:806][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Dungeon_Wall_Decorative_A.SM_Dungeon_Wall_Decorative_A
+[2024.05.01-08.43.54:812][720]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_B...
+[2024.05.01-08.43.54:812][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_C.SM_Dirt_Mound_C
+[2024.05.01-08.43.54:819][720]LogStaticMesh: Display: Building static mesh SM_Dirt_Mound_A...
+[2024.05.01-08.43.54:820][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_B.SM_Dirt_Mound_B
+[2024.05.01-08.43.54:826][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Dirt_Mound_A.SM_Dirt_Mound_A
+[2024.05.01-08.43.54:842][720]LogStaticMesh: Display: Building static mesh SM_Decorative_Arches...
+[2024.05.01-08.43.54:845][720]LogStaticMesh: Display: Building static mesh SM_Decor_Ring...
+[2024.05.01-08.43.54:873][720]LogStaticMesh: Built static mesh [0.18s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Half_Arch.SM_Half_Arch
+[2024.05.01-08.43.54:876][720]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Decorative_Arches.SM_Decorative_Arches
+[2024.05.01-08.43.54:879][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Decor_Ring.SM_Decor_Ring
+[2024.05.01-08.43.54:901][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Stop_Gap...
+[2024.05.01-08.43.54:908][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Stop_Gap.SM_Crypt_Wall_Stop_Gap
+[2024.05.01-08.43.54:910][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Plaster...
+[2024.05.01-08.43.54:914][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Plaster.SM_Crypt_Wall_Plaster
+[2024.05.01-08.43.54:923][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_C...
+[2024.05.01-08.43.54:944][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_C.SM_Crypt_Wall_Decorative_C
+[2024.05.01-08.43.54:964][720]LogStaticMesh: Display: Building static mesh SM_Decor_Chains_B...
+[2024.05.01-08.43.54:976][720]LogStaticMesh: Built static mesh [0.24s] /Game/MedievalDungeon/Meshes/Props/SM_Gargoyle_Statue_On_Stand.SM_Gargoyle_Statue_On_Stand
+[2024.05.01-08.43.54:982][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_B...
+[2024.05.01-08.43.55:007][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor_Concave_End_B...
+[2024.05.01-08.43.55:011][720]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave_End_B.SM_Crypt_Floor_Concave_End_B
+[2024.05.01-08.43.55:013][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor...
+[2024.05.01-08.43.55:017][720]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor.SM_Crypt_Floor
+[2024.05.01-08.43.55:023][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Ceiling...
+[2024.05.01-08.43.55:030][720]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.568030s
+[2024.05.01-08.43.55:032][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling.SM_Crypt_Ceiling
+[2024.05.01-08.43.55:036][720]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_B.SM_Crypt_Wall_Decorative_B
+[2024.05.01-08.43.55:041][720]LogStaticMesh: Display: Building static mesh SM_Coffin...
+[2024.05.01-08.43.55:051][720]LogStaticMesh: Display: Building static mesh SM_Cell_Side...
+[2024.05.01-08.43.55:069][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Coffin.SM_Coffin
+[2024.05.01-08.43.55:079][720]LogStaticMesh: Display: Building static mesh SM_Ceiling_Arch_A...
+[2024.05.01-08.43.55:086][720]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Side.SM_Cell_Side
+[2024.05.01-08.43.55:088][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Arch_A.SM_Ceiling_Arch_A
+[2024.05.01-08.43.55:095][720]LogStaticMesh: Display: Building static mesh SM_Ceiling...
+[2024.05.01-08.43.55:105][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling.SM_Ceiling
+[2024.05.01-08.43.55:126][720]LogStaticMesh: Display: Building static mesh SM_CandleHolder_Bronze...
+[2024.05.01-08.43.55:133][720]LogStaticMesh: Built static mesh [0.17s] /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_B.SM_Decor_Chains_B
+[2024.05.01-08.43.55:141][720]LogStaticMesh: Display: Building static mesh SM_CandleStick_Iron...
+[2024.05.01-08.43.55:165][720]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_CandleHolder_Bronze.SM_CandleHolder_Bronze
+[2024.05.01-08.43.55:174][720]LogStaticMesh: Display: Building static mesh SM_Candle_Used_C...
+[2024.05.01-08.43.55:174][720]LogStaticMesh: Display: Building static mesh SM_Bones_UlnaRight...
+[2024.05.01-08.43.55:185][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_UlnaRight.SM_Bones_UlnaRight
+[2024.05.01-08.43.55:195][720]LogStaticMesh: Display: Building static mesh SM_Bones_UlnaLeft...
+[2024.05.01-08.43.55:199][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Props/SM_Candle_Used_C.SM_Candle_Used_C
+[2024.05.01-08.43.55:205][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_UlnaLeft.SM_Bones_UlnaLeft
+[2024.05.01-08.43.55:212][720]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Props/SM_CandleStick_Iron.SM_CandleStick_Iron
+[2024.05.01-08.43.55:219][720]LogStaticMesh: Display: Building static mesh SM_Bones_TibiaRight...
+[2024.05.01-08.43.55:224][720]LogStaticMesh: Display: Building static mesh SM_Bones_TibiaLeft...
+[2024.05.01-08.43.55:239][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_TibiaRight.SM_Bones_TibiaRight
+[2024.05.01-08.43.55:245][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_TibiaLeft.SM_Bones_TibiaLeft
+[2024.05.01-08.43.55:267][720]LogStaticMesh: Display: Building static mesh SM_Bones_ScapulaLeft...
+[2024.05.01-08.43.55:273][720]LogStaticMesh: Display: Building static mesh SM_Decor_Chains_A...
+[2024.05.01-08.43.55:287][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_ScapulaLeft.SM_Bones_ScapulaLeft
+[2024.05.01-08.43.55:288][720]LogStaticMesh: Display: Building static mesh SM_Bones_Skull...
+[2024.05.01-08.43.55:297][720]LogStaticMesh: Display: Building static mesh SM_Bones_RadiusRight...
+[2024.05.01-08.43.55:309][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_RadiusRight.SM_Bones_RadiusRight
+[2024.05.01-08.43.55:318][720]LogStaticMesh: Display: Building static mesh SM_Bones_RadiusLeft...
+[2024.05.01-08.43.55:331][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_RadiusLeft.SM_Bones_RadiusLeft
+[2024.05.01-08.43.55:334][720]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Skull.SM_Bones_Skull
+[2024.05.01-08.43.55:351][720]LogStaticMesh: Display: Building static mesh SM_Bones_Neck...
+[2024.05.01-08.43.55:374][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Neck.SM_Bones_Neck
+[2024.05.01-08.43.55:389][720]LogStaticMesh: Display: Building static mesh SM_Bones_Jaw...
+[2024.05.01-08.43.55:405][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Jaw.SM_Bones_Jaw
+[2024.05.01-08.43.55:407][720]LogStaticMesh: Display: Building static mesh SM_Bones_Leg...
+[2024.05.01-08.43.55:451][720]LogStaticMesh: Display: Building static mesh SM_Bones_Hips...
+[2024.05.01-08.43.55:470][720]LogStaticMesh: Display: Building static mesh SM_Bones_RibCage...
+[2024.05.01-08.43.55:511][720]LogStaticMesh: Built static mesh [0.06s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Hips.SM_Bones_Hips
+[2024.05.01-08.43.55:518][720]LogStaticMesh: Built static mesh [0.11s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Leg.SM_Bones_Leg
+[2024.05.01-08.43.55:535][720]LogStaticMesh: Display: Building static mesh SM_Bones_HandRight...
+[2024.05.01-08.43.55:544][720]LogStaticMesh: Display: Building static mesh SM_Bones_HandLeft...
+[2024.05.01-08.43.55:560][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandRight.SM_Bones_HandRight
+[2024.05.01-08.43.55:569][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_HandLeft.SM_Bones_HandLeft
+[2024.05.01-08.43.55:582][720]LogStaticMesh: Display: Building static mesh SM_Bones_FibulaRight...
+[2024.05.01-08.43.55:590][720]LogStaticMesh: Display: Building static mesh SM_Bones_FootLeft...
+[2024.05.01-08.43.55:594][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FibulaRight.SM_Bones_FibulaRight
+[2024.05.01-08.43.55:604][720]LogStaticMesh: Display: Building static mesh SM_Bones_FibulaLeft...
+[2024.05.01-08.43.55:616][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FibulaLeft.SM_Bones_FibulaLeft
+[2024.05.01-08.43.55:623][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FootLeft.SM_Bones_FootLeft
+[2024.05.01-08.43.55:640][720]LogStaticMesh: Display: Building static mesh SM_Bones_FemurRight...
+[2024.05.01-08.43.55:649][720]LogStaticMesh: Display: Building static mesh SM_Bones_FemurLeft...
+[2024.05.01-08.43.55:666][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FemurRight.SM_Bones_FemurRight
+[2024.05.01-08.43.55:676][720]LogStaticMesh: Display: Building static mesh SM_Bones_ClavicalRight...
+[2024.05.01-08.43.55:676][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_FemurLeft.SM_Bones_FemurLeft
+[2024.05.01-08.43.55:683][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_ClavicalRight.SM_Bones_ClavicalRight
+[2024.05.01-08.43.55:685][720]LogStaticMesh: Display: Building static mesh SM_Bones_ClavicalLeft...
+[2024.05.01-08.43.55:693][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_ClavicalLeft.SM_Bones_ClavicalLeft
+[2024.05.01-08.43.55:710][720]LogStaticMesh: Display: Building static mesh SM_Bed...
+[2024.05.01-08.43.55:718][720]LogStaticMesh: Display: Building static mesh SM_Bones_Arm...
+[2024.05.01-08.43.55:751][720]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_Bed.SM_Bed
+[2024.05.01-08.43.55:764][720]LogStaticMesh: Built static mesh [0.30s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_RibCage.SM_Bones_RibCage
+[2024.05.01-08.43.55:775][720]LogStaticMesh: Built static mesh [0.06s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Bones_Arm.SM_Bones_Arm
+[2024.05.01-08.43.55:785][720]LogStaticMesh: Display: Building static mesh SM_Alter...
+[2024.05.01-08.43.55:795][720]LogStaticMesh: Display: Building static mesh SM_Floor...
+[2024.05.01-08.43.55:797][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Props/SM_Alter.SM_Alter
+[2024.05.01-08.43.55:799][720]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2024.05.01-08.43.55:801][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Floor_Trim...
+[2024.05.01-08.43.55:806][720]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Floor_Trim.SM_Crypt_Wall_Floor_Trim
+[2024.05.01-08.43.55:813][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_D...
+[2024.05.01-08.43.55:828][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_D.SM_Crypt_Wall_Decorative_D
+[2024.05.01-08.43.55:835][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Wall_Decorative_A...
+[2024.05.01-08.43.55:853][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Wall_Decorative_A.SM_Crypt_Wall_Decorative_A
+[2024.05.01-08.43.55:881][720]LogStaticMesh: Display: Building static mesh SM_Ball_And_Chain...
+[2024.05.01-08.43.55:964][720]LogStaticMesh: Display: Building static mesh SM_Fire_Pit...
+[2024.05.01-08.43.56:004][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Pillar...
+[2024.05.01-08.43.56:045][720]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Pillar.SM_Crypt_Pillar
+[2024.05.01-08.43.56:054][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor_Concave_End_A...
+[2024.05.01-08.43.56:058][720]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave_End_A.SM_Crypt_Floor_Concave_End_A
+[2024.05.01-08.43.56:062][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor_Concave...
+[2024.05.01-08.43.56:066][720]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave.SM_Crypt_Floor_Concave
+[2024.05.01-08.43.56:072][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Ceiling_Arch_A...
+[2024.05.01-08.43.56:082][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Ceiling_Arch_A.SM_Crypt_Ceiling_Arch_A
+[2024.05.01-08.43.56:089][720]LogStaticMesh: Display: Building static mesh SM_Ceiling_Third...
+[2024.05.01-08.43.56:099][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Third.SM_Ceiling_Third
+[2024.05.01-08.43.56:104][720]LogStaticMesh: Display: Building static mesh SM_Ceiling_Piece_B...
+[2024.05.01-08.43.56:110][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Piece_B.SM_Ceiling_Piece_B
+[2024.05.01-08.43.56:114][720]LogStaticMesh: Display: Building static mesh SM_Ceiling_Piece...
+[2024.05.01-08.43.56:120][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Piece.SM_Ceiling_Piece
+[2024.05.01-08.43.56:125][720]LogStaticMesh: Display: Building static mesh SM_Ceiling_Half...
+[2024.05.01-08.43.56:133][720]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Half.SM_Ceiling_Half
+[2024.05.01-08.43.56:136][720]LogStaticMesh: Display: Building static mesh SM_Ceiling_Flat...
+[2024.05.01-08.43.56:140][720]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Ceiling_Flat.SM_Ceiling_Flat
+[2024.05.01-08.43.56:158][720]LogStaticMesh: Built static mesh [0.28s] /Game/MedievalDungeon/Meshes/Props/SM_Ball_And_Chain.SM_Ball_And_Chain
+[2024.05.01-08.43.56:170][720]LogStaticMesh: Display: Building static mesh SM_Torch...
+[2024.05.01-08.43.56:207][720]LogStaticMesh: Display: Building static mesh SM_Gibbet_Cage_Wall_Mount...
+[2024.05.01-08.43.56:215][720]LogStaticMesh: Built static mesh [0.94s] /Game/MedievalDungeon/Meshes/Props/SM_Decor_Chains_A.SM_Decor_Chains_A
+[2024.05.01-08.43.56:223][720]LogStaticMesh: Built static mesh [0.02s] /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage_Wall_Mount.SM_Gibbet_Cage_Wall_Mount
+[2024.05.01-08.43.56:246][720]LogStaticMesh: Built static mesh [0.08s] /Game/MedievalDungeon/Meshes/Props/SM_Torch.SM_Torch
+[2024.05.01-08.43.56:260][720]LogStaticMesh: Display: Building static mesh SM_Gibbet_Cage...
+[2024.05.01-08.43.56:280][720]LogStaticMesh: Display: Building static mesh SM_DoorWay...
+[2024.05.01-08.43.56:308][720]LogStaticMesh: Built static mesh [0.34s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Fire_Pit.SM_Fire_Pit
+[2024.05.01-08.43.56:333][720]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay.SM_DoorWay
+[2024.05.01-08.43.56:366][720]LogStaticMesh: Built static mesh [0.11s] /Game/MedievalDungeon/Meshes/Props/SM_Gibbet_Cage.SM_Gibbet_Cage
+[2024.05.01-08.43.56:370][720]LogStaticMesh: Display: Building static mesh SM_DoorWay_Large_Door_Right...
+[2024.05.01-08.43.56:375][720]LogStaticMesh: Display: Building static mesh SM_Crypt_Doorway...
+[2024.05.01-08.43.56:386][720]LogStaticMesh: Display: Building static mesh SM_DoorWay_Large_Door_Left...
+[2024.05.01-08.43.56:428][720]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Doorway.SM_Crypt_Doorway
+[2024.05.01-08.43.56:450][720]LogStaticMesh: Display: Building static mesh SM_Cell_Front...
+[2024.05.01-08.43.56:459][720]LogStaticMesh: Built static mesh [0.07s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay_Large_Door_Left.SM_DoorWay_Large_Door_Left
+[2024.05.01-08.43.56:468][720]LogStaticMesh: Display: Building static mesh SM_Cell_Door...
+[2024.05.01-08.43.56:471][720]LogStaticMesh: Built static mesh [0.10s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_DoorWay_Large_Door_Right.SM_DoorWay_Large_Door_Right
+[2024.05.01-08.43.56:496][720]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Front.SM_Cell_Front
+[2024.05.01-08.43.56:498][720]LogStaticMesh: Display: Building static mesh SM_CandleHolder_Iron...
+[2024.05.01-08.43.56:498][720]LogStaticMesh: Built static mesh [0.03s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Cell_Door.SM_Cell_Door
+[2024.05.01-08.43.56:536][720]LogStaticMesh: Built static mesh [0.04s] /Game/MedievalDungeon/Meshes/Props/SM_CandleHolder_Iron.SM_CandleHolder_Iron
+[2024.05.01-08.43.56:568][720]LogStaticMesh: Display: Building static mesh SM_Pot_B_Lid...
+[2024.05.01-08.43.56:618][720]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Props/SM_Pot_B_Lid.SM_Pot_B_Lid
+[2024.05.01-08.43.56:630][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Particles/Textures/T_CandleFlame.T_CandleFlame (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.56:645][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Particles/PS_CandleFlame.PS_CandleFlame:ThumbnailTexture (TFO_DXT1, 512x512 x1x1x1) (Required Memory Estimate: 29.89575 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.56:654][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Blank_A.T_Blank_A (TFO_AutoDXT, 8x8 x1x1x1) (Required Memory Estimate: 0.072553 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.56:656][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Blank_C.T_Blank_C (TFO_AutoDXT, 8x8 x1x1x1) (Required Memory Estimate: 0.072553 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.56:657][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Blank_N.T_Blank_N (TFO_BC5, 8x8 x1x1x1) (Required Memory Estimate: 0.080497 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.56:808][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candle_Holder_A.T_Candle_Holder_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.56:815][720]LogStaticMesh: Display: Building static mesh SM_Chandelier...
+[2024.05.01-08.43.57:459][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candle_Holder_C.T_Candle_Holder_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.58:103][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Candle_Holder_N.T_Candle_Holder_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.58:370][720]LogStaticMesh: Built static mesh [1.56s] /Game/MedievalDungeon/Meshes/Props/SM_Chandelier.SM_Chandelier
+[2024.05.01-08.43.58:630][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Bronze_A.T_CandleHolder_Bronze_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.43.58:827][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Bronze_C.T_CandleHolder_Bronze_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.01:057][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Iron_A.T_CandleHolder_Iron_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.01:138][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Bronze_N.T_CandleHolder_Bronze_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.02:572][720]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' exceeded budget of 10.000000s, reporting...
+[2024.05.01-08.44.02:650][720]LogStaticMesh: Built static mesh [9.06s] /Game/MedievalDungeon/Meshes/Skeletons/SM_Skeleton_05.SM_Skeleton_05
+[2024.05.01-08.44.02:739][720]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' report submitted, and took 0.167755s
+[2024.05.01-08.44.02:774][720]LogStall: Stall detector 'AsyncCompilationHelpers::FinishCompilation' complete in 10.205484s (0.205484s overbudget)
+[2024.05.01-08.44.02:801][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Iron_C.T_CandleHolder_Iron_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.02:829][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleHolder_Iron_N.T_CandleHolder_Iron_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.03:227][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Bronze_A.T_CandleStick_Bronze_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.04:242][720]LogMeshUtilities: Finished distance field build in 1.5s - 7x119x119 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 1 triangles, SM_Dungeon_Wall
+[2024.05.01-08.44.05:387][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Bronze_C.T_CandleStick_Bronze_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.06:354][720]LogMeshUtilities: Finished distance field build in 1.7s - 126x63x42 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 85% occupied, 146 triangles, SM_Stairs_10
+[2024.05.01-08.44.07:008][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Iron_A.T_CandleStick_Iron_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.07:090][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Bronze_N.T_CandleStick_Bronze_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.07:315][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Iron_C.T_CandleStick_Iron_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.09:430][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_CandleStick_Iron_N.T_CandleStick_Iron_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.09:735][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_A.T_Cell_Door_Front_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.10:015][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_C.T_Cell_Door_Front_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.10:800][720]LogMeshUtilities: Finished distance field build in 1.1s - 28x28x91 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 100% occupied, 971 triangles, SM_Pillar
+[2024.05.01-08.44.14:891][720]LogMeshUtilities: Finished distance field build in 3.9s - 126x112x91 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 45% occupied, 594 triangles, SM_Mausoleum_Ceiling
+[2024.05.01-08.44.14:982][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Door_Front_N.T_Cell_Door_Front_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.15:263][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chandelier_A.T_Chandelier_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.15:589][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chandelier_C.T_Chandelier_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.20:251][720]LogMeshUtilities: Finished distance field build in 5.4s - 126x112x91 sparse distance field, 1.4Mb total, 0.0Mb always loaded, 59% occupied, 1313 triangles, SM_Mausoleum
+[2024.05.01-08.44.20:477][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chandelier_N.T_Chandelier_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.21:174][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorHardware_Albedo.T_DoorHardware_Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.21:224][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorHardware_C.T_DoorHardware_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.21:253][720]LogMeshUtilities: Finished distance field build in 1.0s - 14x119x77 sparse distance field, 0.2Mb total, 0.0Mb always loaded, 100% occupied, 521 triangles, SM_Large_Window_Half
+[2024.05.01-08.44.22:404][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorHardware_N.T_DoorHardware_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.23:073][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Albedo.T_DoorWay_Large_Door_Right_Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.23:393][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Right_Normal.T_DoorWay_Large_Door_Right_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.25:366][720]LogMeshUtilities: Finished distance field build in 2.5s - 21x119x119 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 78% occupied, 135 triangles, SM_Dungeon_Wall_Decorative_D
+[2024.05.01-08.44.26:434][720]LogMeshUtilities: Finished distance field build in 1.1s - 21x119x119 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 92% occupied, 142 triangles, SM_Dungeon_Wall_Decorative_A
+[2024.05.01-08.44.26:907][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_DoorRight_Compact.T_DoorWay_Large_DoorRight_Compact (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.27:072][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Large_Window_Half_A.T_Large_Window_Half_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.27:145][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Large_Window_Half_C.T_Large_Window_Half_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.29:109][720]LogMeshUtilities: Finished distance field build in 2.5s - 14x119x119 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 100% occupied, 650 triangles, SM_Decorative_Arches
+[2024.05.01-08.44.30:125][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_StoneWall_A.T_StoneWall_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.30:497][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Large_Window_Half_N.T_Large_Window_Half_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.31:507][720]LogMeshUtilities: Finished distance field build in 1.5s - 98x21x91 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 83% occupied, 207 triangles, SM_Crypt_Wall_Decorative_C
+[2024.05.01-08.44.33:225][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_StoneWall_C.T_StoneWall_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.33:377][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_StoneWall_H.T_StoneWall_H (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.34:277][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_StoneWall_N.T_StoneWall_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.34:805][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Left_Albedo.T_DoorWay_Large_Door_Left_Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.34:825][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Left_Compact.T_DoorWay_Large_Door_Left_Compact (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.36:906][720]LogMeshUtilities: Finished distance field build in 2.5s - 119x119x42 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 46% occupied, 128 triangles, SM_Ceiling
+[2024.05.01-08.44.37:074][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Metal_A.T_Metal_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.37:126][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Metal_C.T_Metal_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.37:806][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_DoorWay_Large_Door_Left_Normal.T_DoorWay_Large_Door_Left_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.38:017][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gibbet_Cage_Mount_Texturing_A.T_Gibbet_Cage_Mount_Texturing_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.38:053][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Metal_N.T_Metal_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.39:155][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gibbet_Cage_Mount_Texturing_C.T_Gibbet_Cage_Mount_Texturing_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.40:194][720]LogMeshUtilities: Finished distance field build in 1.2s - 98x21x91 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 80% occupied, 137 triangles, SM_Crypt_Wall_Decorative_D
+[2024.05.01-08.44.40:461][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gibbet_Cage_Mount_Texturing_N.T_Gibbet_Cage_Mount_Texturing_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.40:623][720]LogMeshUtilities: Finished distance field build in 1.5s - 119x119x14 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 100% occupied, 6852 triangles, SM_Fire_Pit
+[2024.05.01-08.44.41:427][720]LogMeshUtilities: Finished distance field build in 1.2s - 98x21x91 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 82% occupied, 143 triangles, SM_Crypt_Wall_Decorative_A
+[2024.05.01-08.44.41:697][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Half_Arch_A.T_Half_Arch_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.43:301][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torch_A.T_Torch_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.43:529][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Half_Arch_C.T_Half_Arch_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.43:947][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Half_Arch_N.T_Half_Arch_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.45:348][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torch_C.T_Torch_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.45:386][720]LogMeshUtilities: Finished distance field build in 2.0s - 119x119x42 sparse distance field, 0.4Mb total, 0.0Mb always loaded, 37% occupied, 98 triangles, SM_Ceiling_Third
+[2024.05.01-08.44.45:537][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torch_N.T_Torch_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.48:231][720]LogMeshUtilities: Finished distance field build in 1.2s - 21x119x126 sparse distance field, 0.5Mb total, 0.0Mb always loaded, 95% occupied, 845 triangles, SM_DoorWay
+[2024.05.01-08.44.48:409][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_BrickFloor_Clean_A.T_BrickFloor_Clean_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.49:365][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_BrickFloor_Clean_H.T_BrickFloor_Clean_H (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.49:400][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_BrickFloor_Clean_C.T_BrickFloor_Clean_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.49:667][720]LogMeshUtilities: Finished distance field build in 1.4s - 98x21x98 sparse distance field, 0.3Mb total, 0.0Mb always loaded, 90% occupied, 850 triangles, SM_Crypt_Doorway
+[2024.05.01-08.44.50:107][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_BrickFloor_Clean_N.T_BrickFloor_Clean_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.50:740][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Coffin_Albedo.T_Coffin_Albedo (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.50:823][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Coffin_Compact.T_Coffin_Compact (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.50:892][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Coffin_Normal.T_Coffin_Normal (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.52:101][720]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2024.05.01-08.44.52:105][720]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.01-08.44.52:149][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.05.01-08.44.52:156][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.05.01-08.44.52:210][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_B_Albedo.T_Crypt_Wall_Decorative_B_Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.52:271][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_B_Compact.T_Crypt_Wall_Decorative_B_Compact (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.52:308][720]LogAudio: Display: Audio Device (ID: 1) registered with world 'Demonstration'.
+[2024.05.01-08.44.52:308][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.44.52:308][720]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-08.44.52:309][720]LogAIModule: Creating AISystem for world Demonstration
+[2024.05.01-08.44.52:463][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_B_Normal.T_Crypt_Wall_Decorative_B_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.52:537][720]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2024.05.01-08.44.52:568][720]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2024.05.01-08.44.52:578][720]Cmd: MAP CHECKDEP NOCLEARLOG
+[2024.05.01-08.44.52:579][720]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.399ms to complete.
+[2024.05.01-08.44.52:590][720]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 60.133543s (58.133543s overbudget)
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: ================================================
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: Total job queries 2,697, among them cache hits 24 (0.89%)
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: Tracking 2,623 distinct input hashes that result in 1,705 distinct outputs (65.00%)
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: RAM used: 44.47 MiB of 1.60 GiB budget. Usage: 2.71%
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: Shaders Compiled: 2,623
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: Jobs assigned 2,627, completed 2,623 (99.85%)
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: Average time worker was idle: 10.02 s
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: Time job spent in pending queue: average 162.27 s, longest 306.37 s
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: Job execution time: average 5.84 s, max 19.56 s
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: Job life time (pending + execution): average 168.36 s, max 307.70
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: Shader code size: average 41.266 KiB, min 2.086 KiB, max 159.91 KiB
+[2024.05.01-08.44.54:666][722]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 325.65 s
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display: Jobs were issued in 312 batches (only local compilation was used), average 8.42 jobs/batch
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display: Average processing rate: 8.05 jobs/sec
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display: Total thread time: 1,568.018 s
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display: Total thread preprocess time: 68.563 s
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display: Percentage time preprocessing: 4.37%
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display: Effective parallelization: 4.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.12 sec, max 8.38 sec, min 1.70 sec)
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    8 times, average 4.78 sec, max 5.65 sec, min 4.19 sec)
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   32 times, average 2.73 sec, max 4.33 sec, min 0.77 sec)
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   22 times, average 2.71 sec, max 5.15 sec, min 2.26 sec)
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display:          TBasePassPSTDistanceFieldShadowsAndLightMapPolicyHQ (compiled   13 times, average 2.65 sec, max 4.30 sec, min 0.80 sec)
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display:                                             FDeferredLightPS - 11.29% of total time (compiled  134 times, average 1.32 sec, max 3.35 sec, min 1.10 sec)
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 5.56% of total time (compiled   32 times, average 2.73 sec, max 4.33 sec, min 0.77 sec)
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.78% of total time (compiled   96 times, average 0.78 sec, max 1.25 sec, min 0.46 sec)
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.01% of total time (compiled   32 times, average 1.96 sec, max 3.60 sec, min 0.27 sec)
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight - 3.89% of total time (compiled   25 times, average 2.44 sec, max 3.61 sec, min 0.81 sec)
+[2024.05.01-08.44.54:667][722]LogShaderCompilers: Display: ================================================
+[2024.05.01-08.44.55:441][723]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks() took too long (0.453 seconds, threshold is 0.300 s), will parallelize next time.
+[2024.05.01-08.44.56:296][726]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pillar_C.T_Pillar_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.56:350][726]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pillar_N.T_Pillar_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.44.56:462][726]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pillar_A.T_Pillar_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.00:429][774]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torture_Chair_A.T_Torture_Chair_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.00:766][775]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torture_Chair_C.T_Torture_Chair_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.00:931][776]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Torture_Chair_Normal.T_Torture_Chair_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.04:610][893]LogD3D12RHI: Warning: Waited for PSO creation for 100.000000ms
+[2024.05.01-08.45.04:657][893]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Ceiling_Arch_Albedo.T_Ceiling_Arch_Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.04:817][898]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Ceiling_Arch_Compact.T_Ceiling_Arch_Compact (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.05:169][912]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Ceiling_Arch_Normal.T_Ceiling_Arch_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.07:667][985]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Albedo.T_Edge_Stones_And_Straight_Column_Texturing_Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.07:879][993]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Compact.T_Edge_Stones_And_Straight_Column_Texturing_Compact (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.08:607][ 22]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Edge_Stones_And_Straight_Column_Texturing_Normal.T_Edge_Stones_And_Straight_Column_Texturing_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.10:887][ 98]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dungeon_Wall_Decorative_A_C.T_Dungeon_Wall_Decorative_A_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.11:186][110]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dungeon_Wall_Decorative_A_A.T_Dungeon_Wall_Decorative_A_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.11:316][115]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dungeon_Wall_Decorative_A_N.T_Dungeon_Wall_Decorative_A_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.15:147][267]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_C_Albedo.T_Crypt_Wall_Decorative_C_Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.15:286][273]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_C_Compact.T_Crypt_Wall_Decorative_C_Compact (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.15:609][283]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_C_Normal.T_Crypt_Wall_Decorative_C_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.18:674][395]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_C.T_Crypt_Wall_Decorative_D_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.18:711][396]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_N.T_Crypt_Wall_Decorative_D_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.18:759][399]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Crypt_Wall_Decorative_D_A.T_Crypt_Wall_Decorative_D_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.19:678][437]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_A.T_Tiling_Plaster_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.19:726][439]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_C.T_Tiling_Plaster_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.19:840][441]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Tiling_Plaster_N.T_Tiling_Plaster_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.20:743][463]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_A.T_Mausoleum_Part_A_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.20:748][464]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_C.T_Mausoleum_Part_A_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.20:805][466]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_A_N.T_Mausoleum_Part_A_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.21:760][502]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_B_A.T_Mausoleum_Part_B_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.21:785][503]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_B_C.T_Mausoleum_Part_B_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.21:824][505]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Part_B_N.T_Mausoleum_Part_B_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.23:322][569]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_C.T_Mausoleum_Ceiling_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.23:369][571]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_A.T_Mausoleum_Ceiling_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.23:499][576]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Mausoleum_Ceiling_N.T_Mausoleum_Ceiling_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.26:502][680]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Decorative_Arches_A.T_Decorative_Arches_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.26:532][681]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Decorative_Arches_C.T_Decorative_Arches_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.26:645][685]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Decorative_Arches_N.T_Decorative_Arches_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.27:465][717]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Small_Window_A.T_Small_Window_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.27:468][717]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Small_Window_C.T_Small_Window_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.27:526][720]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Small_Window_N.T_Small_Window_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.28:705][767]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stairs_10_Compact.T_Stairs_10_Compact (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.28:904][770]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stairs_10_Albedo.T_Stairs_10_Albedo (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.29:494][790]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stairs_10_Normal.T_Stairs_10_Normal (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.32:414][898]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Altar_C.T_Stone_Altar_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.32:435][898]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Altar_A.T_Stone_Altar_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.33:198][929]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chains_Texturing_A.T_Chains_Texturing_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.33:257][932]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chains_Texturing_C.T_Chains_Texturing_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.33:285][933]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Altar_N.T_Stone_Altar_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.34:264][966]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Bed_C.T_Bed_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.34:272][967]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Bed_A.T_Bed_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.34:324][969]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Chains_Texturing_N.T_Chains_Texturing_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.35:131][  2]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dirt_Mound_Texturing_A.T_Dirt_Mound_Texturing_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.35:220][  5]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dirt_Mound_Texturing_C.T_Dirt_Mound_Texturing_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.35:260][  6]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Bed_N.T_Bed_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.36:009][ 18]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_A.T_Gargoyle_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.36:122][ 23]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_C.T_Gargoyle_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.36:155][ 25]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Dirt_Mound_Texturing_N.T_Dirt_Mound_Texturing_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.37:101][ 63]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_C.T_Gargoyle_Stand_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.37:131][ 64]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_A.T_Gargoyle_Stand_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.37:241][ 69]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_N.T_Gargoyle_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.37:961][ 98]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pots_Texturing_C.T_Pots_Texturing_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.37:964][ 98]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Gargoyle_Stand_N.T_Gargoyle_Stand_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.38:001][100]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pots_Texturing_A.T_Pots_Texturing_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.38:742][130]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Coffin_A.T_Stone_Coffin_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.38:828][134]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Coffin_C.T_Stone_Coffin_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.38:839][134]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Pots_Texturing_N.T_Pots_Texturing_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.39:805][175]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stone_Coffin_N.T_Stone_Coffin_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.40:456][203]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Table_A.T_Table_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.40:617][210]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Table_C.T_Table_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.41:381][233]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Table_N.T_Table_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.44:434][395]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Wood_A.T_Wood_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.44:457][397]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Wood_C.T_Wood_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.44:845][419]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Wood_N.T_Wood_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.44:875][420]LogDerivedDataCache: Warning: C:/Users/anuragc3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Loading C:/Users/anuragc3/AppData/Local/UnrealEngine/Common/DerivedDataCache/Buckets/LegacyTEXTURE/59/62/61ba820d120d035a64d14144223e83739626.udd from '/Game/MedievalDungeon/Textures/T_Stairs_10_Albedo.T_Stairs_10_Albedo [MIP 1]' is very slow (0.00 MiB/s); consider disabling this cache store.
+[2024.05.01-08.45.48:641][642]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Clean_A.T_Skeleton_Clean_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.48:806][654]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Clean_C.T_Skeleton_Clean_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.48:982][668]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Clean_N.T_Skeleton_Clean_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.49:987][736]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Dirty_A.T_Skeleton_Dirty_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.50:013][737]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Dirty_C.T_Skeleton_Dirty_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.50:099][744]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Skeleton_Dirty_N.T_Skeleton_Dirty_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.51:130][811]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_A.T_Statue_Hooded_Metal_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.51:209][817]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_C.T_Statue_Hooded_Metal_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.51:277][821]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_Metal_N.T_Statue_Hooded_Metal_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.52:125][881]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Side_A.T_Cell_Side_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.52:228][889]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Side_C.T_Cell_Side_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.52:302][894]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Cell_Side_N.T_Cell_Side_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.53:511][982]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Fire_Pit_C.T_Fire_Pit_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.53:522][983]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Fire_Pit_A.T_Fire_Pit_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.53:549][983]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Fire_Pit_N.T_Fire_Pit_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.54:570][ 54]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_SplitLog_C.T_SplitLog_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.54:618][ 58]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_SplitLog_A.T_SplitLog_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.54:675][ 61]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_SplitLog_N.T_SplitLog_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.55:565][126]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Stand_C.T_Statue_Stand_C (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.55:605][129]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Stand_A.T_Statue_Stand_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.55:691][133]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Stand_N.T_Statue_Stand_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.57:392][250]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stocks_A.T_Stocks_A (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.57:685][269]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stocks_C.T_Stocks_C (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.45.57:950][287]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Stocks_N.T_Stocks_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.46.01:014][504]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_A.T_Statue_Hooded_A (TFO_AutoDXT, 2048x2048 x1x1x1) (Required Memory Estimate: 288.062484 MB), EncodeSpeed: Fast
+[2024.05.01-08.46.01:093][509]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_N.T_Statue_Hooded_N (TFO_BC5, 2048x2048 x1x1x1) (Required Memory Estimate: 291.562488 MB), EncodeSpeed: Fast
+[2024.05.01-08.46.01:693][552]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Medieval_Dungeon_LUT.T_Medieval_Dungeon_LUT (BGRA8, 256x16 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.05.01-08.46.01:717][554]LogTexture: Display: Building textures: /Game/MedievalDungeon/Textures/T_Statue_Hooded_R.T_Statue_Hooded_R (BGRA8, 2048x2048 x1x1x1) (Required Memory Estimate: 110.72916 MB), EncodeSpeed: Fast
+[2024.05.01-08.47.15:015][ 45]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.05.01-08.47.19:458][493]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.05.01-08.47.19:458][493]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.05.01-08.47.19:465][493]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/MedievalDungeon/Maps/Demonstration.Demonstration:PersistentLevel.NavMeshBoundsVolume_0
+[2024.05.01-08.47.19:466][493]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/MedievalDungeon/Maps/Demonstration.Demonstration:PersistentLevel.NavMeshBoundsVolume_0
+[2024.05.01-08.47.19:522][493]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/PCG.PCGSettings'
+[2024.05.01-08.48.08:806][159]Cmd: TRANSACTION UNDO
+[2024.05.01-08.48.08:806][159]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.01-08.48.10:018][224]Cmd: TRANSACTION UNDO
+[2024.05.01-08.48.10:018][224]LogEditorTransaction: Undo Set Location
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: ================================================
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Total job queries 2,801, among them cache hits 60 (2.14%)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Tracking 2,714 distinct input hashes that result in 1,756 distinct outputs (64.70%)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: RAM used: 47.21 MiB of 1.60 GiB budget. Usage: 2.88%
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Shaders Compiled: 2,714
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Jobs assigned 2,715, completed 2,714 (99.96%)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Average time worker was idle: 9.73 s
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Time job spent in pending queue: average 158.32 s, longest 306.37 s
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Job execution time: average 5.79 s, max 19.56 s
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Job life time (pending + execution): average 164.17 s, max 307.70
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Shader code size: average 41.605 KiB, min 2.086 KiB, max 159.91 KiB
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 395.60 s
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Jobs were issued in 384 batches (only local compilation was used), average 7.07 jobs/batch
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Average processing rate: 6.86 jobs/sec
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Total thread time: 1,817.62 s
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Total thread preprocess time: 87.198 s
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Percentage time preprocessing: 4.80%
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Effective parallelization: 4.59 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.12 sec, max 8.38 sec, min 1.70 sec)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   36 times, average 4.93 sec, max 14.71 sec, min 0.76 sec)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    8 times, average 4.78 sec, max 5.65 sec, min 4.19 sec)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   32 times, average 2.73 sec, max 4.33 sec, min 0.77 sec)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   22 times, average 2.71 sec, max 5.15 sec, min 2.26 sec)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 9.76% of total time (compiled   36 times, average 4.93 sec, max 14.71 sec, min 0.76 sec)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display:                                             FDeferredLightPS - 9.74% of total time (compiled  134 times, average 1.32 sec, max 3.35 sec, min 1.10 sec)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 4.80% of total time (compiled   32 times, average 2.73 sec, max 4.33 sec, min 0.77 sec)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.16% of total time (compiled   38 times, average 1.99 sec, max 4.37 sec, min 0.27 sec)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.13% of total time (compiled   96 times, average 0.78 sec, max 1.25 sec, min 0.46 sec)
+[2024.05.01-08.51.09:422][598]LogShaderCompilers: Display: ================================================
+[2024.05.01-08.51.13:064][836]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.51.16:837][ 38]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2024.05.01-08.51.16:881][ 38]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.51.16:881][ 38]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-08.51.16:920][ 38]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Engine/EditorMeshes/AssetViewer/Sphere_inversenormals) ...
+[2024.05.01-08.51.17:515][ 38]LogViewport: Scene viewport resized to 769x749, mode Windowed.
+[2024.05.01-08.51.19:937][143]LogViewport: Scene viewport resized to 766x772, mode Windowed.
+[2024.05.01-08.51.20:006][145]LogViewport: Scene viewport resized to 612x598, mode Windowed.
+[2024.05.01-08.51.20:032][146]LogViewport: Scene viewport resized to 577x557, mode Windowed.
+[2024.05.01-08.51.20:181][158]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.05.01-08.51.20:452][186]LogSlate: Window 'SM_Floor' being destroyed
+[2024.05.01-08.51.20:486][188]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.51.27:965][908]LogStaticMesh: Display: Building static mesh SM_Floor...
+[2024.05.01-08.51.27:968][908]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2024.05.01-08.51.30:111][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-08.51.30:156][ 49]LogPackageLocalizationCache: Processed 47 localized package path(s) for 1 prioritized culture(s) in 0.009112 seconds
+[2024.05.01-08.51.30:162][ 49]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor
+[2024.05.01-08.51.30:162][ 49]LogSavePackage: Moving '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Saved/SM_FloorE131ED1D483E48E834EA028F0126AAA2.tmp' to '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.uasset'
+[2024.05.01-08.51.30:174][ 49]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms
+[2024.05.01-08.51.30:176][ 49]AssetCheck: New page: Asset Save: SM_Floor
+[2024.05.01-08.51.30:176][ 49]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Floor.SM_Floor
+[2024.05.01-08.51.40:576][762]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_5.SM_Stairs_5
+[2024.05.01-08.51.40:585][762]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.51.40:585][762]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-08.51.41:132][762]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.05.01-08.51.49:723][636]LogStaticMesh: Display: Building static mesh SM_Stairs_5...
+[2024.05.01-08.51.49:730][636]LogStaticMesh: Built static mesh [0.01s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_5.SM_Stairs_5
+[2024.05.01-08.51.51:489][793]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-08.51.51:542][793]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_5
+[2024.05.01-08.51.51:543][793]LogSavePackage: Moving '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Saved/SM_Stairs_5E172B2F0480B96925FF9BA8025B3A108.tmp' to '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_5.uasset'
+[2024.05.01-08.51.51:552][793]LogFileHelpers: InternalPromptForCheckoutAndSave took 64 ms (total: 127 ms)
+[2024.05.01-08.51.51:555][793]AssetCheck: New page: Asset Save: SM_Stairs_5
+[2024.05.01-08.51.51:555][793]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Stairs_5.SM_Stairs_5
+[2024.05.01-08.51.59:601][344]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave.SM_Crypt_Floor_Concave
+[2024.05.01-08.51.59:608][344]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.51.59:608][344]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-08.52.00:189][344]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.05.01-08.52.11:515][563]LogStaticMesh: Display: Building static mesh SM_Crypt_Floor_Concave...
+[2024.05.01-08.52.11:519][563]LogStaticMesh: Built static mesh [0.00s] /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave.SM_Crypt_Floor_Concave
+[2024.05.01-08.52.13:866][773]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-08.52.13:909][773]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave
+[2024.05.01-08.52.13:910][773]LogSavePackage: Moving '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Saved/SM_Crypt_Floor_Concave21B4EBE64F38132DAFE2AEBF6456A3F4.tmp' to '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Content/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave.uasset'
+[2024.05.01-08.52.13:919][773]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 180 ms)
+[2024.05.01-08.52.13:921][773]AssetCheck: New page: Asset Save: SM_Crypt_Floor_Concave
+[2024.05.01-08.52.13:921][773]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Crypt/SM_Crypt_Floor_Concave.SM_Crypt_Floor_Concave
+[2024.05.01-08.52.44:516][930]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2024.05.01-08.52.44:523][930]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.52.44:523][930]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-08.52.45:119][930]LogViewport: Scene viewport resized to 1877x1254, mode Windowed.
+[2024.05.01-08.52.52:478][730]LogStaticMesh: Display: Building static mesh SM_Edge_Stones...
+[2024.05.01-08.52.52:499][730]LogStaticMesh: Display: Waiting for static meshes to be ready 0/1 (/Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones) ...
+[2024.05.01-08.52.52:527][730]LogStaticMesh: Built static mesh [0.05s] /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2024.05.01-08.52.52:532][730]LogStaticMesh: Warning: SM_Edge_Stones has some nearly zero tangents which can create some issues. (Tolerance of 1E-4)
+[2024.05.01-08.52.52:532][730]LogStaticMesh: Warning: SM_Edge_Stones has some nearly zero bi-normals which can create some issues. (Tolerance of 1E-4)
+[2024.05.01-08.52.54:527][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-08.52.54:578][906]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones
+[2024.05.01-08.52.54:579][906]LogSavePackage: Moving '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Saved/SM_Edge_StonesBA37466F4981DB18621C0CB28A1F9F55.tmp' to '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Content/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.uasset'
+[2024.05.01-08.52.54:590][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 244 ms)
+[2024.05.01-08.52.54:591][906]AssetCheck: New page: Asset Save: SM_Edge_Stones
+[2024.05.01-08.52.54:591][906]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/MedievalDungeon/Meshes/Architecture/Dungeon/SM_Edge_Stones.SM_Edge_Stones
+[2024.05.01-08.53.29:881][376]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch
+[2024.05.01-08.53.29:881][376]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.53.29:881][376]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-08.53.29:891][376]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.05.01-08.53.30:862][376]LogSlate: Took 0.005865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.05.01-08.53.30:869][376]LogSlate: Took 0.005642 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.05.01-08.53.41:680][204]BlueprintLog: New page: Compile BP_Torch
+[2024.05.01-08.53.41:765][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: ================================================
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Total job queries 2,831, among them cache hits 68 (2.40%)
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Tracking 2,729 distinct input hashes that result in 1,766 distinct outputs (64.71%)
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: RAM used: 47.72 MiB of 1.60 GiB budget. Usage: 2.91%
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Shaders Compiled: 2,729
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Jobs assigned 2,733, completed 2,729 (99.85%)
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Average time worker was idle: 12.66 s
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Time job spent in pending queue: average 157.28 s, longest 306.37 s
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Job execution time: average 5.77 s, max 19.56 s
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Job life time (pending + execution): average 163.28 s, max 307.70
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Shader code size: average 41.71 KiB, min 2.086 KiB, max 159.91 KiB
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 404.60 s
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Jobs were issued in 402 batches (only local compilation was used), average 6.80 jobs/batch
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Average processing rate: 6.74 jobs/sec
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Total thread time: 1,837.501 s
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Total thread preprocess time: 88.355 s
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Percentage time preprocessing: 4.81%
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Effective parallelization: 4.54 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.12 sec, max 8.38 sec, min 1.70 sec)
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   38 times, average 4.83 sec, max 14.71 sec, min 0.76 sec)
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    8 times, average 4.78 sec, max 5.65 sec, min 4.19 sec)
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   32 times, average 2.73 sec, max 4.33 sec, min 0.77 sec)
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   22 times, average 2.71 sec, max 5.15 sec, min 2.26 sec)
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.01-08.54.17:409][521]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.00% of total time (compiled   38 times, average 4.83 sec, max 14.71 sec, min 0.76 sec)
+[2024.05.01-08.54.17:410][521]LogShaderCompilers: Display:                                             FDeferredLightPS - 9.63% of total time (compiled  134 times, average 1.32 sec, max 3.35 sec, min 1.10 sec)
+[2024.05.01-08.54.17:410][521]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 4.75% of total time (compiled   32 times, average 2.73 sec, max 4.33 sec, min 0.77 sec)
+[2024.05.01-08.54.17:410][521]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.57% of total time (compiled   42 times, average 2.00 sec, max 4.37 sec, min 0.27 sec)
+[2024.05.01-08.54.17:410][521]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.08% of total time (compiled   96 times, average 0.78 sec, max 1.25 sec, min 0.46 sec)
+[2024.05.01-08.54.17:410][521]LogShaderCompilers: Display: ================================================
+[2024.05.01-08.54.25:473][975]LogAssetEditorSubsystem: Opening Asset editor for ParticleSystem /Game/MedievalDungeon/Particles/P_Pit_Fire.P_Pit_Fire
+[2024.05.01-08.54.25:505][975]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.54.25:505][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-08.54.25:518][975]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-08.54.25:690][975]LogViewport: Scene viewport resized to 764x599, mode Windowed.
+[2024.05.01-08.54.25:698][975]LogSlate: Took 0.000528 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.05.01-08.54.25:735][975]LogViewport: Scene viewport resized to 1783x724, mode Windowed.
+[2024.05.01-08.54.25:750][975]LogViewport: Scene viewport resized to 1783x399, mode Windowed.
+[2024.05.01-08.54.28:749][204]LogMeshUtilities: Finished distance field build in 3.2s - 126x126x49 sparse distance field, 1.1Mb total, 0.0Mb always loaded, 83% occupied, 802 triangles, AnimTreeEd_PreviewFloor
+[2024.05.01-08.54.28:786][207]LogCascade: Quitting Cascade. FXSystem=0x000009F5BBB58800
+[2024.05.01-08.54.28:807][207]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.05.01-08.54.28:807][207]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.05.01-08.54.55:758][ 38]Cmd: DELETE
+[2024.05.01-08.54.55:758][ 38]Cmd: ACTOR DELETE
+[2024.05.01-08.54.55:779][ 38]LogEditorActor: Deleted Actor: BP_Torch_C
+[2024.05.01-08.54.55:798][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.01-08.54.55:800][ 38]LogEditorActor: Deleted 1 Actors (0.042 secs)
+[2024.05.01-08.54.58:727][285]Cmd: DELETE
+[2024.05.01-08.54.58:727][285]Cmd: ACTOR DELETE
+[2024.05.01-08.54.58:748][285]LogEditorActor: Deleted Actor: BP_Torch_C
+[2024.05.01-08.54.58:766][285]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.05.01-08.54.58:769][285]LogEditorActor: Deleted 1 Actors (0.041 secs)
+[2024.05.01-08.55.03:910][701]Cmd: DELETE
+[2024.05.01-08.55.03:910][701]Cmd: ACTOR DELETE
+[2024.05.01-08.55.03:931][701]LogEditorActor: Deleted Actor: BP_Torch_C
+[2024.05.01-08.55.03:952][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.05.01-08.55.03:954][701]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2024.05.01-08.55.07:252][993]Cmd: TRANSACTION UNDO
+[2024.05.01-08.55.07:252][993]LogEditorTransaction: Undo Delete Elements
+[2024.05.01-08.55.10:921][159]Cmd: TRANSACTION UNDO
+[2024.05.01-08.55.10:921][159]LogEditorTransaction: Undo Clicking on Elements
+[2024.05.01-08.55.15:573][480]Cmd: TRANSACTION UNDO
+[2024.05.01-08.55.15:573][480]LogEditorTransaction: Undo Delete Elements
+[2024.05.01-08.55.31:327][439]Cmd: DELETE
+[2024.05.01-08.55.31:327][439]Cmd: ACTOR DELETE
+[2024.05.01-08.55.31:350][439]LogEditorActor: Deleted Actor: BP_Torch_C
+[2024.05.01-08.55.31:371][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.05.01-08.55.31:375][439]LogEditorActor: Deleted 1 Actors (0.048 secs)
+[2024.05.01-08.55.33:855][666]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-08.55.33:932][666]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2024.05.01-08.55.34:679][666]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Maps/Demonstration
+[2024.05.01-08.55.34:680][666]LogSavePackage: Moving '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Saved/DemonstrationE06BC9B6431257B9F2FD99A62A0E455C.tmp' to '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Content/MedievalDungeon/Maps/Demonstration.umap'
+[2024.05.01-08.55.34:699][666]LogFileHelpers: All files are already saved.
+[2024.05.01-08.55.34:699][666]LogFileHelpers: Saving map 'Demonstration' took 0.817
+[2024.05.01-08.55.34:706][666]LogFileHelpers: InternalPromptForCheckoutAndSave took 850 ms (total: 1.09 sec)
+[2024.05.01-08.55.34:713][666]AssetCheck: New page: Asset Save: Demonstration
+[2024.05.01-08.55.34:713][666]LogContentValidation: Display: Validating /Script/Engine.World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2024.05.01-08.55.36:259][790]LogViewport: Scene viewport resized to 1741x976, mode Windowed.
+[2024.05.01-08.55.55:082][204]BlueprintLog: New page: Compile BP_Torch
+[2024.05.01-08.55.55:150][204]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.05.01-08.56.18:803][ 18]Cmd: DELETE
+[2024.05.01-08.56.18:803][ 18]Cmd: ACTOR DELETE
+[2024.05.01-08.56.18:825][ 18]LogEditorActor: Deleted Actor: BP_Torch_C
+[2024.05.01-08.56.18:847][ 18]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.05.01-08.56.18:853][ 18]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2024.05.01-08.56.20:758][183]Cmd: DELETE
+[2024.05.01-08.56.20:758][183]Cmd: ACTOR DELETE
+[2024.05.01-08.56.20:778][183]LogEditorActor: Deleted Actor: BP_Torch_C
+[2024.05.01-08.56.20:795][183]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2024.05.01-08.56.20:798][183]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2024.05.01-08.56.30:970][ 67]Cmd: DELETE
+[2024.05.01-08.56.30:970][ 67]Cmd: ACTOR DELETE
+[2024.05.01-08.56.30:990][ 67]LogEditorActor: Deleted Actor: BP_Torch_C
+[2024.05.01-08.56.31:011][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.05.01-08.56.31:013][ 67]LogEditorActor: Deleted 1 Actors (0.044 secs)
+[2024.05.01-08.57.04:608][942]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MedievalDungeon/Blueprints/BP_Chandalier.BP_Chandalier
+[2024.05.01-08.57.04:609][942]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.57.04:609][942]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.05.01-08.57.06:694][ 65]LogViewport: Scene viewport resized to 1741x976, mode Windowed.
+[2024.05.01-08.57.22:597][854]LogEditorTransaction: Undo Edit Point Light Attenuation Radius
+[2024.05.01-08.58.22:861][965]Cmd: DELETE
+[2024.05.01-08.58.22:861][965]Cmd: ACTOR DELETE
+[2024.05.01-08.58.22:885][965]LogEditorActor: Deleted Actor: BP_Torch_C
+[2024.05.01-08.58.22:951][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.05.01-08.58.22:957][965]LogEditorActor: Deleted 1 Actors (0.096 secs)
+[2024.05.01-08.58.26:840][258]Cmd: DELETE
+[2024.05.01-08.58.26:841][258]Cmd: ACTOR DELETE
+[2024.05.01-08.58.26:861][258]LogEditorActor: Deleted Actor: BP_Torch_C
+[2024.05.01-08.58.26:882][258]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2024.05.01-08.58.26:886][258]LogEditorActor: Deleted 1 Actors (0.045 secs)
+[2024.05.01-08.59.08:872][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-08.59.08:945][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2024.05.01-08.59.09:705][464]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Maps/Demonstration
+[2024.05.01-08.59.09:706][464]LogSavePackage: Moving '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Saved/Demonstration460AAD6A4FF12B6AC3732E9F7B563238.tmp' to '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Content/MedievalDungeon/Maps/Demonstration.umap'
+[2024.05.01-08.59.09:721][464]LogFileHelpers: All files are already saved.
+[2024.05.01-08.59.09:721][464]LogFileHelpers: Saving map 'Demonstration' took 0.823
+[2024.05.01-08.59.09:728][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 856 ms (total: 1.95 sec)
+[2024.05.01-08.59.09:736][464]AssetCheck: New page: Asset Save: Demonstration
+[2024.05.01-08.59.09:736][464]LogContentValidation: Display: Validating /Script/Engine.World /Game/MedievalDungeon/Maps/Demonstration.Demonstration
+[2024.05.01-08.59.19:832][190]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.05.01-08.59.19:865][190]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.05.01-08.59.19:904][190]LogSavePackage: Moving output files for package: /Game/MedievalDungeon/Blueprints/BP_Torch
+[2024.05.01-08.59.19:905][190]LogSavePackage: Moving '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Saved/BP_TorchA914EC894C2596DF141B71930C43CC68.tmp' to '../../../../../../Users/anuragc3/Desktop/GameDev/PorryHatterVREscape/Content/MedievalDungeon/Blueprints/BP_Torch.uasset'
+[2024.05.01-08.59.19:913][190]LogFileHelpers: InternalPromptForCheckoutAndSave took 82 ms (total: 2.03 sec)
+[2024.05.01-08.59.19:916][190]AssetCheck: New page: Asset Save: BP_Torch
+[2024.05.01-08.59.19:916][190]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MedievalDungeon/Blueprints/BP_Torch.BP_Torch
+[2024.05.01-08.59.23:392][529]LogShaderCompilers: Display: ================================================
+[2024.05.01-08.59.23:392][529]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.05.01-08.59.23:392][529]LogShaderCompilers: Display: Total job queries 2,841, among them cache hits 69 (2.43%)
+[2024.05.01-08.59.23:392][529]LogShaderCompilers: Display: Tracking 2,743 distinct input hashes that result in 1,773 distinct outputs (64.64%)
+[2024.05.01-08.59.23:392][529]LogShaderCompilers: Display: RAM used: 48.25 MiB of 1.60 GiB budget. Usage: 2.94%
+[2024.05.01-08.59.23:392][529]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.05.01-08.59.23:392][529]LogShaderCompilers: Display: Shaders Compiled: 2,743
+[2024.05.01-08.59.23:392][529]LogShaderCompilers: Display: Jobs assigned 2,743, completed 2,743 (100%)
+[2024.05.01-08.59.23:392][529]LogShaderCompilers: Display: Average time worker was idle: 13.23 s
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Time job spent in pending queue: average 156.71 s, longest 306.37 s
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Job execution time: average 5.74 s, max 19.56 s
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Job life time (pending + execution): average 162.45 s, max 307.70
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Shader code size: average 41.871 KiB, min 2.086 KiB, max 159.91 KiB
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 416.80 s
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Jobs were issued in 412 batches (only local compilation was used), average 6.66 jobs/batch
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Average processing rate: 6.58 jobs/sec
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Total thread time: 1,852.386 s
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Total thread preprocess time: 89.227 s
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Percentage time preprocessing: 4.82%
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Effective parallelization: 4.44 (times faster than compiling all shaders on one thread). Compare with number of workers: 4
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display:                                          FClusteredShadingPS (compiled    4 times, average 5.12 sec, max 8.38 sec, min 1.70 sec)
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display:                                   FSSDTemporalAccumulationCS (compiled    8 times, average 4.78 sec, max 5.65 sec, min 4.19 sec)
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   39 times, average 4.78 sec, max 14.71 sec, min 0.76 sec)
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled   32 times, average 2.73 sec, max 4.33 sec, min 0.77 sec)
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled   22 times, average 2.71 sec, max 5.15 sec, min 2.26 sec)
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 10.07% of total time (compiled   39 times, average 4.78 sec, max 14.71 sec, min 0.76 sec)
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display:                                             FDeferredLightPS - 9.56% of total time (compiled  134 times, average 1.32 sec, max 3.35 sec, min 1.10 sec)
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 4.77% of total time (compiled   46 times, average 1.92 sec, max 4.37 sec, min 0.27 sec)
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy - 4.71% of total time (compiled   32 times, average 2.73 sec, max 4.33 sec, min 0.77 sec)
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display:                                FVirtualShadowMapProjectionCS - 4.05% of total time (compiled   96 times, average 0.78 sec, max 1.25 sec, min 0.46 sec)
+[2024.05.01-08.59.23:393][529]LogShaderCompilers: Display: ================================================
